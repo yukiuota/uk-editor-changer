@@ -1,0 +1,48 @@
+# UK Editor Changer POT File
+# Copyright (C) 2025
+msgid ""
+msgstr ""
+"Project-Id-Version: UK Editor Changer 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "エディタ設定"
+msgstr "エディタ設定"
+
+msgid "UK Editor Changer"
+msgstr "UK Editor Changer"
+
+msgid "投稿タイプごとに使用するエディタを選択してください。"
+msgstr "投稿タイプごとに使用するエディタを選択してください。"
+
+msgid "%s のエディタ"
+msgstr "%s のエディタ"
+
+msgid "Gutenberg (ブロックエディタ)"
+msgstr "Gutenberg (ブロックエディタ)"
+
+msgid "クラシックエディタ"
+msgstr "クラシックエディタ"
+
+msgid "%s の編集に使用するエディタを選択してください。"
+msgstr "%s の編集に使用するエディタを選択してください。"
+
+msgid "使用方法"
+msgstr "使用方法"
+
+msgid "各投稿タイプでGutenbergエディタまたはクラシックエディタを選択できます。"
+msgstr "各投稿タイプでGutenbergエディタまたはクラシックエディタを選択できます。"
+
+msgid "設定を変更した後は、新しい投稿・編集画面で反映されます。"
+msgstr "設定を変更した後は、新しい投稿・編集画面で反映されます。"
+
+msgid "クラシックエディタを使用する場合は、Classic Editorプラグインがインストールされている必要があります。"
+msgstr "クラシックエディタを使用する場合は、Classic Editorプラグインがインストールされている必要があります。"

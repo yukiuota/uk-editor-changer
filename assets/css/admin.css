@@ -1,0 +1,98 @@
+/* UK Editor Changer Admin Styles */
+
+.uk-editor-changer-settings .form-table {
+    max-width: 800px;
+}
+
+.uk-editor-changer-settings .form-table th {
+    width: 200px;
+    padding-left: 0;
+}
+
+.uk-editor-changer-settings .form-table td {
+    padding-bottom: 20px;
+}
+
+.uk-editor-changer-settings select {
+    min-width: 250px;
+    padding: 8px 12px;
+    font-size: 14px;
+}
+
+.uk-editor-changer-settings .description {
+    margin-top: 8px;
+    color: #666;
+    font-style: italic;
+}
+
+.uk-editor-changer-info {
+    margin-top: 30px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-left: 4px solid #0073aa;
+    border-radius: 4px;
+}
+
+.uk-editor-changer-info h2 {
+    margin-top: 0;
+    color: #0073aa;
+}
+
+.uk-editor-changer-info ul {
+    margin-left: 20px;
+}
+
+.uk-editor-changer-info li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+/* エディタタイプ表示用のアイコン */
+.editor-type-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+    vertical-align: text-bottom;
+}
+
+.editor-type-gutenberg {
+    background-color: #0073aa;
+    border-radius: 2px;
+}
+
+.editor-type-classic {
+    background-color: #d54e21;
+    border-radius: 50%;
+}
+
+/* 設定保存時の成功メッセージ */
+.notice.uk-editor-changer-notice {
+    border-left-color: #46b450;
+}
+
+.notice.uk-editor-changer-notice .notice-title {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+/* レスポンシブ対応 */
+@media screen and (max-width: 782px) {
+
+    .uk-editor-changer-settings .form-table th,
+    .uk-editor-changer-settings .form-table td {
+        display: block;
+        width: 100%;
+        padding: 10px 0;
+    }
+
+    .uk-editor-changer-settings .form-table th {
+        border-bottom: none;
+        padding-bottom: 5px;
+    }
+
+    .uk-editor-changer-settings select {
+        width: 100%;
+        max-width: 100%;
+    }
+}
